@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/GitHub-sainihimanshu983-success?style=for-the-badge)](https://github.com/sainihimanshu983)
 
-Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in depth knowledge of tasks I perform. I am an Certified Microsoft Professional for Azure and have a keen interest in AKS.
+Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
 
 
 ## One year Back...
