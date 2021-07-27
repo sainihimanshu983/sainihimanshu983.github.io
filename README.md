@@ -53,9 +53,11 @@
 [![](https://img.shields.io/badge/GitHub-sainihimanshu983-success?style=for-the-badge)](https://github.com/sainihimanshu983)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainihimanshu983&show_icons=true&layout=compact&langs_count=10&theme=dark)](https://github.com/sainihimanshu983/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainihimanshu983&show_icons=true&layout=compact&langs_count=10&theme=dark)
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainihimanshu983&count_private=true&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sainihimanshu983&theme=dark)
+
 
 ![Sample Flask App](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sample-app-flask&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
 ![Dot Net Static Hosting](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=dotnetstatichosting&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
@@ -64,9 +66,53 @@
 
 
 Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
-
 ## Previous Experience
 
 I am a Software Engineer at Unisys with work experience of almost 3 years, mostly in Java and JavaScript. Working as Lead in a cloud project which revolves around secure containers(managed Kubernetes) on managed cloud platforms(Azure, AWS, GCP, bare-metal k8s). I have prior experience and good understanding of web development, application security and system programming. Skilled in advanced Java, reactive programming and responsive UI development. Interested in high performance reactive and responsive software development with asynchronous architecture.
 
 I have worked in advanced Vert.X, Java, JS, Angular, Python(Django), NodeJS, ES4X, helm, kubernetes, docker, JSP, Liferay (6.2CE and 7.2CE), C Sharp, have hands on with ReactJS, React Native, MongoDB, blockchain<hyper-ledger and etherium>, SQL Server 2016, MariaDB, Oracle, IDE development VS Code, VS IDE and Eclipse. Have lead research two ideas and written whitepapers for same. Linux Foundation certified in Kubernetes, Stanford University certified in machine learning; Language agnostic and technology focused, seeking learning opportunities.
+
+## Skills
+
+![](https://img.shields.io/badge/-Windows-informational?style=for-the-badge&logo=windows&logoColor=0078D6&color=F5F5F5) 
+![](https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=F5F5F5)
+![](https://img.shields.io/badge/-Alpine-informational?style=for-the-badge&logo=alpinelinux&logoColor=0D597F&color=F5F5F5)
+
+![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&color=F3EBFF)
+![](https://img.shields.io/badge/-Eclipse-informational?style=for-the-badge&logo=eclipse&logoColor=2C2255&color=F3EBFF)
+![](https://img.shields.io/badge/-IntelliJ_Idea-informational?style=for-the-badge&logo=intellijidea&logoColor=000000&color=F3EBFF)
+![](https://img.shields.io/badge/-Bash,_Shell-informational?style=for-the-badge&logo=powershell&logoColor=4D4D4D&color=F3EBFF)
+
+![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&color=F5F5F5)
+![](https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=F5F5F5)
+![](https://img.shields.io/badge/-Helm-informational?style=for-the-badge&logo=helm&logoColor=0F1689&color=F5F5F5)
+![](https://img.shields.io/badge/-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=7B42BC&color=F5F5F5)
+![](https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&color=F5F5F5)
+![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=D24939&color=F5F5F5)
+![](https://img.shields.io/badge/-SonarQube-informational?style=for-the-badge&logo=sonarqube&color=F5F5F5)
+![](https://img.shields.io/badge/-Nginx-informational?style=for-the-badge&logo=nginx&logoColor=009639&color=F5F5F5)
+![](https://img.shields.io/badge/-Istio-informational?style=for-the-badge&logo=ibm&logoColor=466BB0&color=F5F5F5)
+![](https://img.shields.io/badge/-ElasticSearch-informational?style=for-the-badge&logo=elasticsearch&logoColor=f3d337&color=F5F5F5)
+![](https://img.shields.io/badge/-Fluent-informational?style=for-the-badge&logo=fluentd&logoColor=0E83C8&color=F5F5F5)
+![](https://img.shields.io/badge/-Kibana-informational?style=for-the-badge&logo=kibana&logoColor=d7689d&color=F5F5F5)
+![](https://img.shields.io/badge/-Beats-informational?style=for-the-badge&logo=beats&logoColor=a0c443&color=F5F5F5)
+![](https://img.shields.io/badge/-Prometheus-informational?style=for-the-badge&logo=prometheus&color=F5F5F5)
+![](https://img.shields.io/badge/-Grafana-informational?style=for-the-badge&logo=grafana&color=F5F5F5)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=181717&color=F5F5F5)
+
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=FF160B&color=F3EBFF)
+![](https://img.shields.io/badge/-Vert.X-informational?style=for-the-badge&logo=eclipsevertdotx&logoColor=782A90&color=F3EBFF)
+![](https://img.shields.io/badge/-Spring_Boot-informational?style=for-the-badge&logo=springboot&color=F3EBFF)
+![](https://img.shields.io/badge/-Vert.X-informational?style=for-the-badge&logo=eclipsevertdotx&logoColor=782A90&color=F3EBFF)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=F3EBFF)
+![](https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&color=F3EBFF)
+![](https://img.shields.io/badge/-NodeJS-informational?style=for-the-badge&logo=node.js&color=F3EBFF)
+![](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=DD0031&color=F3EBFF)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&color=F3EBFF)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=F3EBFF)
+![](https://img.shields.io/badge/-C_Sharp-informational?style=for-the-badge&logo=csharp&logoColor=239120&color=F3EBFF)
+![](https://img.shields.io/badge/-JQuery-informational?style=for-the-badge&logo=jquery&logoColor=0769AD&color=F3EBFF)
+![](https://img.shields.io/badge/-DJango-informational?style=for-the-badge&logo=django&logoColor=092E20&color=F3EBFF)
+
+![](https://img.shields.io/badge/-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&color=D8F7FD)
+![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=FF160B&color=FFEED9)
