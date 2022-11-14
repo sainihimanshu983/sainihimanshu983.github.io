@@ -5,8 +5,8 @@
 ---
 - 👋 Hi, I’m Himanshu
 - 👀 Interested in technology advancement and minimalistic designs
-- 🌱 Currently learning DevSecOps complete stack from coding till monitoring
-- 💞️ Looking to collaborate on kubernetes related topics and OSS projects in Java, (Any)JS, Go, Python
+- 🌱 Working on Cloud Architecture, DevSecOps complete stack from coding till monitoring
+- 💞️ Looking to collaborate on Azure, kubernetes related topics and OSS projects in Java, (Any)JS, Go, Python
 - 📫 You can reach me here: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://sainihimanshu983.github.io/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='website' height='20'>](mailto://sainihimanshu983@gmail.com)
@@ -65,7 +65,7 @@
 ![Profile](https://github-readme-stats.vercel.app/api/pin?username=sainihimanshu983&repo=sainihimanshu983&title_color=fff&icon_color=faf9f9&text_color=9f9f9f&bg_color=151515)
 
 
-Senior Engineer at Nagarro with expertise in Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
+Cloud Architect at Nagarro with expertise in Azure and Kubernetes on all platforms (Azure, AWS, GCP, Openshift, Rancher, bare metal), terraform, helm and containers(docker based microservices). Coming from a development background, I understand the applications deeply and implement secure infrastructure in optimized fashion. Best practices are what I aspire to shine at along with in-depth knowledge of tasks I perform. I am a Certified Microsoft Professional for Azure, excelling in AKS in particular. I am interested in contributing to Open Source community, please reach out to me in case I can be of help and I shall devote time as per my availability to learn something new.
 ## Previous Experience
 
 I am a Software Engineer at Unisys with work experience of almost 3 years, mostly in Java and JavaScript. Working as Lead in a cloud project which revolves around secure containers(managed Kubernetes) on managed cloud platforms(Azure, AWS, GCP, bare-metal k8s). I have prior experience and good understanding of web development, application security and system programming. Skilled in advanced Java, reactive programming and responsive UI development. Interested in high performance reactive and responsive software development with asynchronous architecture.
